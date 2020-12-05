@@ -59,6 +59,7 @@ p {
     background-position: center;
 }
 
+/*Search Engine Optimisation and Social Media Marketing elements will float to the left */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -74,7 +75,10 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
+.content h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -113,20 +117,6 @@ p {
 
 .search-engine-optimization img, .online-reputation-management img, .social-media-marketing img {
     max-height: 200px;
-}
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
 }
 
 .footer {
