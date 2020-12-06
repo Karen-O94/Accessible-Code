@@ -29,7 +29,7 @@ This first assignment was a great way to implement what we had learnt in class a
 * HTML
 * CSS
 
-![Image]
+![code-image] (Acessible-Code.png)
 
 ## Credits 
 To all the lovely TAs and students of the FSF Coding bootcamp. 
