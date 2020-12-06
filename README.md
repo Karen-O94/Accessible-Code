@@ -22,9 +22,12 @@ Comments were added to the CSS file to clarify what styles were used to design t
 ## Challenges
 The main challenges I faced with this assignment was debugging issues that I came across as I was committing or pushing my code. It took a lot of self-research and peer discussions to understand where I went wrong and how to resolve the issue. 
 
-## Built with
+## Conclusions 
+This first assignment was a great way to implement what we had learnt in class and the prework. However, I was also presented with new challenges which required me to seek external help from fellow peers, Google, W3Schools, youtube etc. to complete this assignment to the best of my ability. 
+
+## Built with:
 * HTML
 * CSS
 
 ## Credits 
-© 2019 Horiseon Social Solution Services, Inc
+To all the lovely TAs and students of the FSF Coding bootcamp. 
