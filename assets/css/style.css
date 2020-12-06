@@ -4,6 +4,7 @@
     margin: 0;
 }
 
+/*Background of page must be a light gray*/
 body {
     background-color: #d9dcd6;
 }
@@ -20,6 +21,7 @@ body {
     font-size: 48px;
 }
 
+/*Seo part of the Horiseon header must be light-gray*/
 .header h1 .seo {
     color: #d9dcd6;
 }
@@ -46,10 +48,12 @@ a {
     text-decoration: none;
 }
 
+/*Font in paragraphs within the section tag must be 16px*/
 p {
     font-size: 16px;
 }
 
+/*Hero image must cover the entire container and be centred on the page*/
 .hero {
     height: 800px;
     width: 100%;
@@ -59,12 +63,13 @@ p {
     background-position: center;
 }
 
-/*Search Engine Optimisation and Social Media Marketing elements will float to the left */
+/*Search Engine Optimisation and Social Media Marketing content will float to the left */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/*Online Reputation content will float to right*/
 .float-right {
     float: right;
     margin-left: 25px;
@@ -79,6 +84,8 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/*This style only applies to the aside section*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -100,11 +107,13 @@ p {
     text-align: center;
 }
 
+/*Applies to all images within the Aside tag*/
 .benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
+/*All 3 sections must have the same font, background colour and box structure */
 
 .search-engine-optimization, .online-reputation-management, .social-media-marketing {
     margin-bottom: 20px;
@@ -115,6 +124,7 @@ p {
     color: #ffffff;
 }
 
+/*Image height must not exceed max height of 200px*/
 .search-engine-optimization img, .online-reputation-management img, .social-media-marketing img {
     max-height: 200px;
 }
